@@ -1,0 +1,7 @@
+F:\Doc\Projects\My\jQueryUIExample\jQueryUIExample\bin\jQueryUIExample.dll
+F:\Doc\Projects\My\jQueryUIExample\jQueryUIExample\bin\jQueryUIExample.pdb
+F:\Doc\Projects\My\jQueryUIExample\jQueryUIExample\bin\EntityFramework.dll
+F:\Doc\Projects\My\jQueryUIExample\jQueryUIExample\bin\EntityFramework.xml
+F:\Doc\Projects\My\jQueryUIExample\jQueryUIExample\obj\Debug\ResolveAssemblyReference.cache
+F:\Doc\Projects\My\jQueryUIExample\jQueryUIExample\obj\Debug\jQueryUIExample.dll
+F:\Doc\Projects\My\jQueryUIExample\jQueryUIExample\obj\Debug\jQueryUIExample.pdb
